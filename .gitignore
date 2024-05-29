@@ -14,13 +14,14 @@ target/
 .sts4-cache
 
 ### Resource ###
-*.yml
+src/**/resources/*.yml
 
 ### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
+*.yml
 
 ### NetBeans ###
 /nbproject/private/
