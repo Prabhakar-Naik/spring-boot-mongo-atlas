@@ -1,6 +1,6 @@
  spring :
    data :
      mongodb:
-       uri : mongo atlas uri
+       uri : mongodb+srv://prabhakar:Prabha225@javadeveloperprabhakar.tsdiynp.mongodb.net/?retryWrites=true&w=majority
        database : Task
       
